@@ -1,0 +1,4 @@
+plugins:
+  sidebar_enable:
+    default: true
+    client: true
