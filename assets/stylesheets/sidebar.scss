@@ -18,6 +18,10 @@ html:not(.mobile-view) {
     .catimg {
       margin: 0 auto;
       width: 65px;
+      img {
+          max-width: 65px;
+          max-height: 65px;
+      }
     }
     .dis-info-name {
       color: #333;
